@@ -1,2 +1,6 @@
 # sinecube
-![graphics_cube](https://user-images.githubusercontent.com/84393679/223737352-73fe0f7f-87af-4a1c-acb2-6692f73c56f6.gif)
+
+A graphics programming exercise that follows a sine wave pattern, uses various types of materials and lighting to attain the desired effect. 
+
+
+![720_cube](https://user-images.githubusercontent.com/84393679/223749963-45680bce-d364-4d43-8aad-e72e84d2df88.gif)
